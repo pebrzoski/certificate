@@ -1,0 +1,87 @@
+body{
+
+    background: url("../img/water-sign.png") no-repeat center top;
+    background-size: 55%;
+    background-position-y: 100px;
+    color:#363A66;
+    font-family: Verdana;
+}
+.left-corner-blue{
+    position: absolute; left: 0px; top: 0px;
+    width:15%;
+}
+.left-corner-red{
+    position: absolute; left: 0px; top: 0px;
+    width:16%;
+}
+.right-corner-blue{
+    position: absolute; right:0px; bottom: 0px;
+    width:16%;
+}
+.right-corner-red{
+    position: absolute; right:0px; bottom: 0px;
+    width:17%;
+}
+.flag{
+    position: absolute; right:20px; bottom: 20px;
+    width:5%;
+}
+
+header h1{
+    font-size:80px;
+    margin-top:5px;
+    font-weight: normal;
+    margin-bottom:0px;
+}
+header p{
+    font-size:17px;
+    margin-top:20px;
+    font-weight: bold;
+}
+header h2{
+    font-size:40px;
+    margin-top:30px;
+    font-weight: bold;
+    margin-bottom:20px;
+}
+section h2 {
+    font-size: 20px;
+    margin-top: 35px;
+    font-weight: bold;
+}
+section{
+    width:800px;
+    margin:0 auto;
+}
+section h3{
+    font-size:16px;
+    margin-bottom:95px;
+}
+
+footer{
+margin-top:30px;
+    font-weight:bold;
+    line-height:5px;
+    font-size:13px;
+}
+
+
+
+
+
+
+.page{
+    margin:0 auto;
+    text-align: center;
+
+}.signs{
+    display:flex;
+    justify-content: space-around;
+    margin-bottom:10px;
+
+ }
+ footer{
+     margin:30px auto;
+     font-size:15px;
+
+ }
